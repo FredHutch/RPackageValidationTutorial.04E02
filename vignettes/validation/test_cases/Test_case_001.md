@@ -3,6 +3,7 @@
 #' @editDate 2021-05-27
 #' @coverage
 #' 1.1: 1.1
+#' 1.2: 1.1, 1.2
 
 
 *Test Case 1: hello_world*
